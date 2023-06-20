@@ -1,11 +1,6 @@
 ## Building Javascript Calculator
 
+Création d'une calculatrice en JS 
+Exercice perso
 
-### Getting Started
-
-Open your **terminal** and run the following command.
-
-```
-git clone https://github.com/developermithu/javascript-calculator
-cd javascript-calculator
-```
+Crée par Charlotte Bodin le 20/6/23git s
